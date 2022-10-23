@@ -1,5 +1,6 @@
 # Clustering
 We will implement some clustering algorithms from scratch and we will test on two data sets constituted by some 2-dimensional distributions of points. Then we will apply our algorithms to a real-word data set.
+
 TODO:
 Generate data sets DS1 (non overlapping blobs), DS2 (overlapping blobs) and load DS3 from the file iris.csv.
 
